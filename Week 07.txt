@@ -1,0 +1,3 @@
+Sukontho Rozario
+
+I used AI and asked it to help me validate ISBN with exceptions. Claude for some reason gave me answers i didnt understand but chatgpt was helpful.
