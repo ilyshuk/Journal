@@ -1,0 +1,2 @@
+I used ChatGPT to break down Week 5 topics like encapsulation, properties, and name mangling with clear, short examples.
+I pasted my code, and ChatGPT showed how to write property setters with simple type/range checks and when to raise ValueError.
