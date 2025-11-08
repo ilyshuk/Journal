@@ -1,0 +1,2 @@
+I asked AI to explain each idea in plain words and show short examples for classes, attributes, and methods.
+When I got stuck, I pasted my code and AI pointed out mistakes and suggested simple fixes using f-strings and lists/dicts.
