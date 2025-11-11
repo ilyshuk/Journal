@@ -1,0 +1,2 @@
+I asked ChatGPT to riff on my library code and show how a subclass should override a method, then use super() for the shared bits.
+We tried a quick demo list of different book types and called the same method to prove polymorphism no if/elif needed.
