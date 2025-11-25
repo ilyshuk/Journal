@@ -1,0 +1,4 @@
+This week I used AI a little bit to help me understand how @property works in Python.
+ I asked it to explain how the getter and setter connect to one attribute and why you might want to use them instead of just a plain field.
+ After that I wrote my own code for the homework and tried to figure things out myself first. I did not rely on AI to finish the exercises or fix my bugs.
+I used chatgpt and enjoyed my experience. here is what i asked it to do https://chatgpt.com/share/6925cb11-c35c-8003-bc30-deeff0199003
