@@ -1,0 +1,6 @@
+This week I used AI to help me understand things like unittest and how tests check if our code works.
+It helped me see what functions like setUp and assert are doing in the PlantingContainer and garden examples.
+Working with the GardenManager and saving/loading the garden to a JSON file made the whole project feel more like a real system.
+I also used AI with my group to talk through ideas and get help organizing our project so things made more sense.
+
+Here is the chatgtp history: https://chatgpt.com/share/693a522c-2e2c-8003-b6c0-b54df8dadcaf
