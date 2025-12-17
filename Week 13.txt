@@ -1,0 +1,6 @@
+This week I used AI to help me understand what Project 4 is asking for, especially the parts about data persistence, file I/O, and the different types of tests.
+I asked it for help brainstorming how to structure unit, integration, and system tests, and for examples of clean ways to handle saving/loading with good error handling.
+After that, I wrote and edited the code myself and made sure I understood every change before keeping it
+I also used AI as a checklist tool to review our README and testing plan, but I did not rely on it to build the whole project for me.
+
+here is the link https://chatgpt.com/share/69424856-6ec8-8003-a056-afbaf5e800b9
